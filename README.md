@@ -4,7 +4,7 @@
 
 Writing about tech can be just as important as making it. Developers spend plenty of time creating new applications and debugging existing codebases, but most developers also spend at least some of their time reading and writing about technical concepts, recent advancements, and new technologies. A simple Google search for any concept covered in this course returns thousands of think pieces and tutorials from developers of all skill levels!
 
-Your task this week is to build a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. You’ll build this site completely from scratch and deploy it to Heroku. Your app will follow the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
+This is a Tech blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. 
 
 ## User Story
 
@@ -82,7 +82,7 @@ The package.json/package-lock.js contributes the following:
 
 The seeds files contribute the following:
 
--The data for the relavant categories, i.e. sessions storage for post, username as a user, 6 for product tag/tag, comment text for comment.
+-The data for the relavant categories, i.e. sessions storage for post, username as a user, comment text for comment.
 
 The models files contribute the following:
 
@@ -103,7 +103,9 @@ To jumpstart the application and setting up the code, you need to create the db 
 
 ## Credits
 
-.
+Erik Oerke (TA) assisted with resolving issues with posting comments (needed to adjust the await fetch and delete if statement).
+
+Scott McAnally (Calendy Tutor) provided support with nav bar issues.
 
 ## License
 
