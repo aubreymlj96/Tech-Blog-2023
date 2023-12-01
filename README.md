@@ -107,6 +107,8 @@ Erik Oerke (TA) assisted with resolving issues with posting comments (needed to 
 
 Scott McAnally (Calendy Tutor) provided support with nav bar issues.
 
+Source for Calc() - https://blog.logrocket.com/how-when-use-css-calc-tutorial-examples/
+
 ## License
 
 MIT License

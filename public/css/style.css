@@ -172,7 +172,6 @@
     background-color: var(--dark);
     padding: 1%;
     border-radius: 1.88px 1.88px 0 0;
-    /* border-radius: calc(.18rem - 1px) calc(.18rem - 1px) 0 0; */
   }
   
   .card-body {
@@ -376,52 +375,42 @@
   @media screen and (min-width: 640px) {
     .col-sm-1 {
       flex: 0 0 40.53px;
-      /* flex: 0 0 calc(100% * 1 / 12 - 2%); */
     }
   
     .col-sm-2 {
       flex: 0 0 93.87px;
-      /* flex: 0 0 calc(100% * 2 / 12 - 2%); */
     }
   
     .col-sm-3 {
       flex: 0 0 147.2px;
-      /* flex: 0 0 calc(100% * 3 / 12 - 2%); */
     }
   
     .col-sm-4 {
       flex: 0 0 200.53px;
-      /* flex: 0 0 calc(100% * 4 / 12 - 2%); */
     }
   
     .col-sm-5 {
       flex: 0 0 253.87px;
-      /* flex: 0 0 calc(100% * 5 / 12 - 2%); */
     }
   
     .col-sm-6 {
       flex: 0 0 307.2px;
-      /* flex: 0 0 calc(100% * 6 / 12 - 2%); */
     }
   
     .col-sm-7 {
       flex: 0 0 360.53px;
-      /* flex: 0 0 calc(100% * 7 / 12 - 2%); */
     }
   
     .col-sm-8 {
       flex: 0 0 413.87px;
-      /* flex: 0 0 calc(100% * 8 / 12 - 2%); */
     }
   
     .col-sm-9 {
       flex: 0 0 467.2px;
-      /* flex: 0 0 calc(100% * 9 / 12 - 2%); */
     }
   
     .col-sm-10 {
       flex: 0 0 520.53px;
-      /* flex: 0 0 calc(100% * 10 / 12 - 2%); */
     }
   
     .col-sm-11 {
@@ -436,47 +425,47 @@
   
   @media screen and (min-width: 768px) {
     .col-md-1 {
-      flex: 0 0 calc(100% * 1 / 12 - 2%);
+      flex: 0 0 33.28px;
     }
   
     .col-md-2 {
-      flex: 0 0 calc(100% * 2 / 12 - 2%);
+      flex: 0 0 86.72px;
     }
   
     .col-md-3 {
-      flex: 0 0 calc(100% * 3 / 12 - 2%);
+      flex: 0 0 138.24px;
     }
   
     .col-md-4 {
-      flex: 0 0 calc(100% * 4 / 12 - 2%);
+      flex: 0 0 189.44px;
     }
   
     .col-md-5 {
-      flex: 0 0 calc(100% * 5 / 12 - 2%);
+      flex: 0 0 240.64px;
     }
   
     .col-md-6 {
-      flex: 0 0 calc(100% * 6 / 12 - 2%);
+      flex: 0 0 292.86px;
     }
   
     .col-md-7 {
-      flex: 0 0 calc(100% * 7 / 12 - 2%);
+      flex: 0 0 342.78px;
     }
   
     .col-md-8 {
-      flex: 0 0 calc(100% * 8 / 12 - 2%);
+      flex: 0 0 394.99px;
     }
   
     .col-md-9 {
-      flex: 0 0 calc(100% * 9 / 12 - 2%);
+      flex: 0 0 445.44px;
     }
   
     .col-md-10 {
-      flex: 0 0 calc(100% * 10 / 12 - 2%);
+      flex: 0 0 496.64px;
     }
   
     .col-md-11 {
-      flex: 0 0 calc(100% * 11 / 12 - 2%);
+      flex: 0 0 547.84px;
     }
   
     .col-md-12 {
